@@ -1,0 +1,26 @@
+{
+  "name": "express-api-pets-back-end",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulrahman-alhattab/express-pets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulrahman-alhattab/express-pets/issues"
+  },
+  "homepage": "https://github.com/abdulrahman-alhattab/express-pets#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.2",
+    "morgan": "^1.10.1"
+  }
+}
